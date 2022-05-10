@@ -27,7 +27,7 @@ sudo make strip install
 
 ## 演示
 
-
+![demo](https://github.com/liudf0716/funny-project/blob/main/c/WonderFox_Video_Recording_001_001.gif)
 
 ## 使用与退出
 
